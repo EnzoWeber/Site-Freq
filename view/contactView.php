@@ -1,4 +1,5 @@
 <?php
+include 'view/includes/ts3connect.php';
 /**
  * Created by PhpStorm.
  * User: Hypraz
@@ -7,4 +8,5 @@
  */
 ?>
 
-12132123
+
+Nous Contacté
