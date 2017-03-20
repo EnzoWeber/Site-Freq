@@ -6,4 +6,6 @@
  * Time: 16:34
  */
 
-include 'view/profilView.php';
+include 'view/profileView.php';
+
+

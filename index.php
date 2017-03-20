@@ -28,3 +28,4 @@ if($page == 'login'){
 }
 
 include 'view/includes/footer.php';
+
