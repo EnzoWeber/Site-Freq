@@ -18,7 +18,7 @@ _____________________
 
 ## plutard
 - [ ] page Team/Rooster
-- [ ] profile user
+- [ ] _Session
 
 
 ## idées
