@@ -17,8 +17,8 @@ _____________________
 - [x] MVC pattern
 
 ## plutard
-- [ ] Raise $1MM
-- [ ] Retire
+- [ ] page Team/Rooster
+- [ ] profile user
 
 
 ## idées
