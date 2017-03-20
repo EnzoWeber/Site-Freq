@@ -7,4 +7,4 @@
  */
 
 ?>
-fsruohipj ICI C MOI .
+Bienvenue dans l'acceuil !
