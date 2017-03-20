@@ -37,10 +37,3 @@
         </div><!--/.nav-collapse -->
     </div>
 </div>
-
-<div class="container">
-
-    <div class="text-center">
-        <h1>Meda-book</h1>
-        <p class="lead">Connectez vous</p>
-    </div>
