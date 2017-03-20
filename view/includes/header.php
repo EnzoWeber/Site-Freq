@@ -28,7 +28,7 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="?page=home">Accueil</a></li>
+                <li class="active"><a hrefé="?page=home">Accueil</a></li>
                 <li><a href="?page=profile">Profile</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
