@@ -6,4 +6,4 @@
  * Time: 16:34
  */
 
-include 'view/rdvView.php';
+include 'view/profilView.php';

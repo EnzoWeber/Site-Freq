@@ -29,7 +29,7 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class="active"><a hrefé="?page=home">Accueil</a></li>
-                <li><a href="?page=rdv">Rendez-vous</a></li>
+                <li><a href="?page=profile">Profile</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="?page=contact">Contacter</a></li>
