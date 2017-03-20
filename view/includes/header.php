@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Meda-book</title>
+    <title>Frequency Gaming</title>
     <meta name="generator" content="Bootply" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -16,15 +16,15 @@
 
 </head>
 <body>
-<div class="navbar navbar-default navbar-static-top">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
-        <div class="navbar-header">
+        <div class="navbar-header page-scroll">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Meda-book</a>
+            <a class="navbar-brand page-scroll" href="#">Meda-book</a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
