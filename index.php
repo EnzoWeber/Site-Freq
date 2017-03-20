@@ -19,7 +19,7 @@ if($page == 'login'){
     include 'controller/loginController.php';
 }elseif($page == 'home'){
     include 'controller/indexController.php';
-}elseif($page == 'rdv'){
+}elseif($page == 'profile'){
     include 'controller/profileController.php';
 }elseif($page == 'contact'){
     include 'controller/contactController.php';
