@@ -1,6 +1,10 @@
-</div><!-- /.container -->
-<!-- script references -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-</body>
-</html>
+<div class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+        <p class="navbar-text pull-left">© 2017 - Site Crée par : Enzo "HypRaz" Weber</p>
+
+        <a href="https://github.com/EnzoWeber/Site-Freq" class="navbar-btn btn-danger btn pull-right">
+            <span class="glyphicon glyphicon-star"></span>repo git</a>
+    </div>
+
+
+</div>
